@@ -1,0 +1,1 @@
+This is developer 2 working in master branch from local repo
